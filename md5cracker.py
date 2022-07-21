@@ -1,4 +1,4 @@
-import hashlib as hl 
+import hashlib 
 
 wordlist = str(input('Enter wordlist location: '))
 hash_input = str(input('Enter hash to be cracked: '))
