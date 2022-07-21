@@ -1,0 +1,2 @@
+# HOGcracker
+Multi Hash cracker
